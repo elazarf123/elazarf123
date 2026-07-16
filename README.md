@@ -22,12 +22,15 @@ Interactive dashboards built on **real** CMS, HHS/OCR, FDA & CISA data → **[el
 | Project | What it is |
 |---------|------------|
 | [healthcare-data-portfolio](https://github.com/elazarf123/healthcare-data-portfolio) | 3 live dashboards — healthcare analytics + HIPAA/security (CMS, HHS, FDA, CISA data) |
-| [healthcare-data-integration](https://github.com/elazarf123/healthcare-data-integration) | EHR-to-Claims reconciliation in SQL — source profiling, denial-rate analysis, chronic-condition timelines (ICD-10, CPT) |
+| [healthcare-data-integration](https://github.com/elazarf123/healthcare-data-integration) | EHR-to-Claims reconciliation done three ways — Excel, SQL, and Python (pandas) — with denial-rate analysis and chronic-condition timelines (ICD-10, CPT) |
+| [healthcare-bi-pipeline](https://github.com/elazarf123/healthcare-bi-pipeline) | End-to-end BI workflow: Python ETL, star-schema warehouse, data-quality rules, revenue-cycle KPIs |
+| [phi-access-anomaly-detection](https://github.com/elazarf123/phi-access-anomaly-detection) | Detection engineering over EHR audit logs — 4 insider-threat rules mapped to HIPAA & NIST CSF 2.0 |
+| [healthcare-it-support-toolkit](https://github.com/elazarf123/healthcare-it-support-toolkit) | Clinical IT runbooks (EHR downtime, anti-vishing) + Python service-desk SLA analysis |
 | [powershell-ad-m365-scripts](https://github.com/elazarf123/powershell-ad-m365-scripts) | Production-style AD & M365 administration scripts with error handling and CSV reporting |
 | [cyber-port](https://github.com/elazarf123/cyber-port) | 6 documented hands-on labs (AD, PKI/LDAPS, DNS/DHCP, M365, replication) |
 
 ## Certifications
-Google Cybersecurity · Google Data Analytics · Google IT Support · Google Healthcare IT Support (Johns Hopkins) · CompTIA A+ *(in progress)*
+Google Business Intelligence · Google Data Analytics · Google Cybersecurity · Google IT Support · Healthcare IT Support (Johns Hopkins) · CompTIA A+ *(in progress)*
 
 ## Currently
 - CompTIA Security+ — in progress
