@@ -24,6 +24,8 @@ Interactive dashboards built on **real** CMS, HHS/OCR, FDA & CISA data → **[el
 | [healthcare-data-portfolio](https://github.com/elazarf123/healthcare-data-portfolio) | 3 live dashboards — healthcare analytics + HIPAA/security (CMS, HHS, FDA, CISA data) |
 | [healthcare-data-integration](https://github.com/elazarf123/healthcare-data-integration) | EHR-to-Claims reconciliation done three ways — Excel, SQL, and Python (pandas) — with denial-rate analysis and chronic-condition timelines (ICD-10, CPT) |
 | [healthcare-bi-pipeline](https://github.com/elazarf123/healthcare-bi-pipeline) | End-to-end BI workflow: Python ETL, star-schema warehouse, data-quality rules, revenue-cycle KPIs |
+| [iam-access-review](https://github.com/elazarf123/iam-access-review) | Joiner-mover-leaver access review — Python reconciliation of directory vs HR & RBAC (orphaned accounts, privilege creep) + gated PowerShell remediation |
+| [nist-csf-hipaa-risk-assessment](https://github.com/elazarf123/nist-csf-hipaa-risk-assessment) | Full GRC deliverable set — scored NIST CSF 2.0 assessment, HIPAA crosswalk, owned risk register, phased POA&M |
 | [phi-access-anomaly-detection](https://github.com/elazarf123/phi-access-anomaly-detection) | Detection engineering over EHR audit logs — 4 insider-threat rules mapped to HIPAA & NIST CSF 2.0 |
 | [healthcare-it-support-toolkit](https://github.com/elazarf123/healthcare-it-support-toolkit) | Clinical IT runbooks (EHR downtime, anti-vishing) + Python service-desk SLA analysis |
 | [powershell-ad-m365-scripts](https://github.com/elazarf123/powershell-ad-m365-scripts) | Production-style AD & M365 administration scripts with error handling and CSV reporting |
