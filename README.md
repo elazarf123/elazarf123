@@ -43,7 +43,8 @@ With 4+ years of enterprise technical operations experience—including healthca
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
-| 🌐 **[Healthcare Data Portfolio](https://elazarf123.github.io/healthcare-data-portfolio/)** | `Chart.js`, `HTML/CSS`, `CMS/HHS Data` | **3 Interactive Dashboards** analyzing real CMS readmission, HHS breach, and CISA/FDA medical device vulnerability data. |
+| 🌐 **[Healthcare Data Portfolio](https://elazarf123.github.io/healthcare-data-portfolio/)** | `Chart.js`, `HTML/CSS`, `CMS/HHS Data` | **3 Interactive Dashboards** analyzing real CMS readmission, HHS breach, and FDA/NVD medical device vulnerability data. |
+| ⚙️ [**HIPAA Continuous Control Monitoring**](https://github.com/elazarf123/hipaa-continuous-control-monitoring) | Python, pytest, GitHub Actions | Scheduled evaluation of 6 HIPAA Security Rule technical controls with scored posture, audit-ready evidence, an exception register with mandatory expiry, and week-over-week regression detection. |
 | 🔑 **[IAM Access Review Engine](https://github.com/elazarf123/iam-access-review)** | `Python`, `PowerShell`, `RBAC` | Joiner-mover-leaver reconciliation tool identifying orphaned accounts and privilege creep with automated remediation. |
 | 🛡️ **[PHI Access Anomaly Detection](https://github.com/elazarf123/phi-access-anomaly-detection)** | `Python`, `EHR Logs`, `HIPAA` | Detection engine flagging insider threats (snooping, scraping, terminated account usage) mapped to NIST CSF 2.0. |
 | 📋 **[NIST CSF & HIPAA Risk Assessment](https://github.com/elazarf123/nist-csf-hipaa-risk-assessment)** | `GRC`, `Risk Register`, `POA&M` | Enterprise GRC deliverable set featuring scored NIST CSF 2.0 controls, HIPAA crosswalk, and phased remediation plan. |
