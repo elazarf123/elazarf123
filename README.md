@@ -1,27 +1,41 @@
-# Hi, I'm Elazar Ferrer 👋
-### Cloud Systems & Security Engineer | Identity (IAM) & Automation
+# Hi, I'm Elazar 👋
 
-I build and secure event-driven cloud systems, automate enterprise identity lifecycles, and implement continuous compliance testing. Pursuing a **B.S. in Cybersecurity & Information Assurance** at Western Governors University.
-
----
-
-### 🛠️ Technical Competency Matrix
-
-| Focus Domain | Core Technologies | Featured Repositories |
-| :--- | :--- | :--- |
-| **Cloud & Serverless Architecture** | Microsoft Azure, Azure Functions (v2), Python 3.11, PySpark | [serverless-ticket-router](https://github.com/elazarf123/serverless-ticket-router) |
-| **Cloud Identity Governance & IAM** | Microsoft Entra ID, Microsoft Graph API, RBAC, Active Directory, JIT/PAM | [iam-lifecycle-automation](https://github.com/elazarf123/iam-lifecycle-automation), [iam-access-review](https://github.com/elazarf123/iam-access-review), [iam-pam-simulator](https://github.com/elazarf123/iam-pam-simulator), [cloud-iam-least-privilege](https://github.com/elazarf123/cloud-iam-least-privilege) |
-| **DevSecOps & Continuous Auditing** | GitHub Actions CI/CD, Pytest, Policy-as-Code, NIST CSF | [hipaa-continuous-control-monitoring](https://github.com/elazarf123/hipaa-continuous-control-monitoring) |
-| **Detection Engineering & SIEM** | Log Analysis, MITRE ATT&CK Cloud, RegEx Rules | [phi-access-anomaly-detection](https://github.com/elazarf123/phi-access-anomaly-detection) |
-| **Enterprise IT Administration** | PowerShell 7+, Microsoft 365, DNS/DHCP, Windows Server | [powershell-ad-m365-scripts](https://github.com/elazarf123/powershell-ad-m365-scripts) |
+Security Operations & Detection Engineering Enthusiast focused on SIEM architecture, automated incident response (SOAR), and infrastructure automation with Python and PowerShell.
 
 ---
 
-### 📜 Certifications & Education
-* **Western Governors University:** B.S. in Cybersecurity & Information Assurance *(In Progress)*
-* **Google Professional Certificates:** IT Automation with Python • Cybersecurity • IT Support • Business Intelligence • Data Analytics
-* **Johns Hopkins University:** Healthcare IT Support Specialization
+### 🛡️ Core Competencies & Tech Stack
+
+* **SIEM & Security Operations:** Splunk Enterprise, Log Telemetry & Ingestion, Threat Hunting, SPL Query Development
+* **Incident Response & SOAR:** Threat Intelligence Enrichment (AbuseIPDB), Automated Playbooks, Alert Triage Automation
+* **Governance & Frameworks:** NIST CSF v2.0, CIS Controls v8, Incident Response Lifecycles
+* **Scripting & Automation:** Python 3, PowerShell, Bash, REST APIs
+* **Infrastructure & Cloud:** Docker Desktop, WSL 2, Linux/Windows Administration, Azure
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/elazarf/) • [Email](mailto:elazarferrer1@gmail.com) • [GitHub](https://github.com/elazarf123)
+### 🚀 Featured Project
+
+#### [Enterprise SIEM & SOAR Lab](https://github.com/elazarf123/enterprise-siem-splunk-lab)
+A containerized Splunk Enterprise environment built on Docker with integrated threat detection, automated incident response, and compliance reporting:
+* **Log Simulation & Ingestion:** Custom Python telemetry generator producing realistic authentication events.
+* **Detection Engineering:** SPL correlation rules targeting brute-force authentication attempts.
+* **Automated SOAR Pipeline:** Automated threat intelligence enrichment and automated IP containment workflows.
+* **Compliance Reporting Engine:** Metric aggregation aligned directly to NIST CSF and CIS Controls.
+
+---
+
+### 🎓 Certifications & Background
+
+* **Education:** B.S. in Cybersecurity and Information Assurance (In Progress)
+* **Certifications:**
+  * Google Cybersecurity Professional Certificate
+  * Google IT Automation with Python Professional Certificate
+  * Google IT Support Professional Certificate
+  * Google Data Analytics Professional Certificate
+
+---
+
+### 📬 Connect With Me
+
+* **GitHub:** [@elazarf123](https://github.com/elazarf123)
