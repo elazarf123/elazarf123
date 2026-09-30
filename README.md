@@ -2,6 +2,8 @@
 
 Security Operations & Detection Engineering specialist focused on **SIEM architecture**, **automated incident response (SOAR)**, **Identity Governance & Administration (IAM/IGA)**, and **infrastructure automation** using Python and PowerShell.
 
+**About:** My background runs from IT support and help desk through networking into security: supporting users and endpoints taught me how systems break, networking showed me how they connect, and security is where I put both to work.
+
 ---
 
 ### 🛡️ Technical Competencies
