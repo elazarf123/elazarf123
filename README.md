@@ -29,8 +29,8 @@ Security Operations & Detection Engineering specialist focused on **SIEM archite
 #### 3. [PowerShell AD & M365 Automation](https://github.com/elazarf123/powershell-ad-m365-scripts)
 > Enterprise administration toolkit for bulk user provisioning, stale account identification, privileged group audits, license tracking, and automated GPO backup workflows.
 
-#### 4. [Serverless Security Ticket Router](https://github.com/elazarf123/serverless-ticket-router)
-> Cloud-native Python API for ingesting, standardizing, and routing security alert payloads to designated triage channels.
+#### 4. [Serverless Ticket Router](https://github.com/elazarf123/serverless-ticket-router)
+> Azure Functions (Python) API that routes support tickets to department queues using weighted keyword scoring, with P1–P4 priority, SLA assignment, and CVE/HTTP error tagging.
 
 ---
 
