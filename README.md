@@ -34,7 +34,7 @@ Security Operations & Detection Engineering specialist focused on **SIEM archite
 
 ### 🎓 Education & Professional Certifications
 
-* **Western Governors University:** B.S. in Cybersecurity and Information Assurance (In Progress)
+* **Western Governors University:** B.S. in Cybersecurity and Information Assurance (enrolling, starting November 2026)
 * **Google Professional Credentials:**
   * Google Cybersecurity Professional Certificate
   * Google IT Automation with Python Professional Certificate
