@@ -1,51 +1,52 @@
-# Hi, I'm Elazar 👋
+# Elazar Ferrer
 
-Security Operations & Detection Engineering specialist focused on **SIEM architecture**, **automated incident response (SOAR)**, **Identity Governance & Administration (IAM/IGA)**, and **infrastructure automation** using Python and PowerShell.
+IT support professional moving into IAM and security. I automate identity work with PowerShell, Python, and Microsoft Graph, and measure the results.
 
-**About:** My background runs from IT support and help desk through networking into security: supporting users and endpoints taught me how systems break, networking showed me how they connect, and security is where I put both to work.
+## Measured results
 
----
-
-### 🛡️ Technical Competencies
-
-| Domain | Core Tools & Technologies |
+| Project | Result |
 | :--- | :--- |
-| **SIEM & SecOps** | Splunk Enterprise, SPL Correlation Rules, Threat Intelligence (AbuseIPDB), Log Ingestion |
-| **Identity & Access (IAM/IGA)** | Active Directory, Microsoft 365, RBAC Matrix Reconciliation, JML Automation, PAM Simulation |
-| **Scripting & Automation** | Python 3, PowerShell, Bash, REST APIs, JSON Data Normalization |
-| **Cloud & Infrastructure** | Docker Desktop, WSL 2, Linux (Ubuntu/Debian), Windows Server, Azure |
-| **Security Frameworks** | NIST CSF v2.0, CIS Controls v8, MITRE ATT&CK Mapping |
+| [Entra ID access lifecycle lab](https://github.com/elazarf123/powershell-ad-m365-scripts/tree/main/iam-access-lifecycle) | Access review caught **4 least-privilege violations**, remediated to **0**; self-approved requests rejected (separation of duties) |
+| [Entra ID benchmark](https://github.com/elazarf123/powershell-ad-m365-scripts/tree/main/entra-benchmark) | **50 users provisioned in ~37 s** with PowerShell + Microsoft Graph vs **~100 min** by hand |
 
----
+Both were run in a lab Entra ID tenant (free tier).
 
-### 🚀 Featured Repositories
+## Skills
 
-#### 1. [Enterprise SIEM & SOAR Lab](https://github.com/elazarf123/enterprise-siem-splunk-lab)
-> Containerized Splunk Enterprise environment featuring custom Python telemetry generation, SPL brute-force correlation searches, automated SOAR threat enrichment/containment, and executive NIST/CIS compliance reporting.
+| Area | Tools |
+| :--- | :--- |
+| Identity & access | Microsoft Entra ID, Active Directory, Microsoft Graph, RBAC, access reviews, joiner-mover-leaver |
+| Scripting | PowerShell, Python (pandas), Pester, pytest |
+| Compliance | HIPAA, NIST CSF 2.0, NIST SP 800-53 (AC-2, AC-5, AC-6, AU-2) |
+| SIEM (lab) | Splunk, SPL, Docker |
+| Cloud (lab) | Azure Functions, AWS IAM policies |
+| Support | Password resets, account lockouts, identity verification |
 
-#### 2. [IAM Access Review Engine](https://github.com/elazarf123/iam-access-review)
-> Joiner-Mover-Leaver (JML) reconciliation engine comparing directory objects against HR rosters and RBAC matrices to detect orphaned accounts, privilege creep, and MFA coverage gaps.
+## Featured repos
 
-#### 3. [PowerShell AD & M365 Automation](https://github.com/elazarf123/powershell-ad-m365-scripts)
-> Enterprise administration toolkit for bulk user provisioning, stale account identification, privileged group audits, license tracking, and automated GPO backup workflows.
+| Repo | What it is |
+| :--- | :--- |
+| [powershell-ad-m365-scripts](https://github.com/elazarf123/powershell-ad-m365-scripts) | PowerShell and Microsoft Graph scripts for AD and Entra ID provisioning, auditing, and offboarding. |
+| [iam-access-review](https://github.com/elazarf123/iam-access-review) | Python access review that finds orphaned accounts, privilege creep, and MFA gaps in synthetic identity data. |
+| [enterprise-siem-splunk-lab](https://github.com/elazarf123/enterprise-siem-splunk-lab) | Splunk-on-Docker lab that detects brute-force logins and enriches the alert with a Python script. |
+| [healthcare-data-portfolio](https://github.com/elazarf123/healthcare-data-portfolio) | Three dashboards on public healthcare data covering readmissions, PHI access audits, HIPAA breaches, and device security. |
+| [serverless-ticket-router](https://github.com/elazarf123/serverless-ticket-router) | Azure Functions API that routes support tickets by keyword score, priority, and SLA (in progress). |
 
-#### 4. [Serverless Ticket Router](https://github.com/elazarf123/serverless-ticket-router)
-> Azure Functions (Python) API that routes support tickets to department queues using weighted keyword scoring, with P1–P4 priority, SLA assignment, and CVE/HTTP error tagging.
+## Experience
 
----
+| Role | Years |
+| :--- | :--- |
+| Member Services Representative, Alorica (CVS/Carelon health plan account): ~20 calls/day, 95% resolution, 95% satisfaction; password resets, account lockouts, and identity verification under HIPAA | 2023–present |
+| Retention Specialist, AT&T | 2021–2023 |
 
-### 🎓 Education & Professional Certifications
+## Education & certifications
 
-* **Western Governors University:** B.S. in Cybersecurity and Information Assurance (enrolling, starting November 2026)
-* **Google Professional Credentials:**
-  * Google Cybersecurity Professional Certificate
-  * Google IT Automation with Python Professional Certificate
-  * Google IT Support Professional Certificate
-  * Google Data Analytics Professional Certificate
+- **WGU** B.S. Cybersecurity & Information Assurance (starting Nov 2026)
+- **CompTIA Security+** (in progress)
+- Google Cybersecurity Professional Certificate (Merit America)
+- Google IT Support · Google IT Automation with Python · Google Data Analytics
+- HIPAA
 
----
+## Contact
 
-### 📬 Connect With Me
-
-* **GitHub:** [@elazarf123](https://github.com/elazarf123)
-* **Location:** Texas, United States
+[linkedin.com/in/elazarf](https://linkedin.com/in/elazarf) · elazarferrer1@gmail.com · Lubbock, TX
